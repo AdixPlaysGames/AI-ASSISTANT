@@ -2,7 +2,7 @@
 This is ANA, the future of daily working
 
 Presentation of capabilities
-![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/PRESENTATION.mp4)
+![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/PRESENTATION.gif)
 ![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/1.png)
 ![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/2.png)
 ![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/3.png)
