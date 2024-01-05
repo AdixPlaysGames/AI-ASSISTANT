@@ -1,5 +1,5 @@
 # AI-ASSISTANT
-This is ANA, the future of daily working
+This is ANA, the project of AI implementation
 
 # Presentation of capabilities
 ![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/1.png)
@@ -12,6 +12,3 @@ This is ANA, the future of daily working
 ![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/8.png)
 ![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/9.png)
 ![](https://github.com/AdixPlaysGames/AI-ASSISTANT/blob/main/VISUAL/10.png)
-
-There is only a part of the whole script due to the private data. 
-Nevertheless, by adding your own APIs and upgrading libraries you can experience the potential of AI.
